@@ -1,0 +1,105 @@
+{
+  "lists": [
+    {
+      "id": 2,
+      "name": "Покупки",
+      "colorId": 4
+    },
+    {
+      "id": 4,
+      "name": "Книги",
+      "colorId": 2
+    },
+    {
+      "id": 5,
+      "name": "Личное",
+      "colorId": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "listId": 2,
+      "text": "Морковь",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "text": "Лук",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "listId": 2,
+      "text": "Молоко",
+      "completed": true
+    },
+    {
+      "listId": 2,
+      "text": "Вода",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "listId": 4,
+      "text": "Купить 1984!",
+      "completed": true,
+      "id": 10
+    },
+    {
+      "listId": 2,
+      "text": "Сметана",
+      "completed": true,
+      "id": 12
+    },
+    {
+      "listId": 5,
+      "text": "Уборка",
+      "completed": true,
+      "id": 19
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
